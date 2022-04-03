@@ -18,3 +18,7 @@
 
 
 [![Bulid CI - windows](https://github.com/alekyaleela/M1_calendar/actions/workflows/Windows.yml/badge.svg)](https://github.com/alekyaleela/M1_calendar/actions/workflows/Windows.yml)
+
+
+
+[![Build_CI - Linux](https://github.com/alekyaleela/M1_calendar/actions/workflows/Linux.yml/badge.svg)](https://github.com/alekyaleela/M1_calendar/actions/workflows/Linux.yml)
